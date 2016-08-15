@@ -1,0 +1,6 @@
+GetNewlyricIntent a lyric
+GetNewlyricIntent a song lyric
+GetNewlyricIntent tell me a lyric
+GetNewlyricIntent tell me a song lyric
+GetNewlyricIntent give me a lyric
+GetNewlyricIntent give me a song lyric
