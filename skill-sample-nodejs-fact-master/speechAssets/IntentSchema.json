@@ -1,7 +1,7 @@
 {
   "intents": [
     {
-      "intent": "GetNewFactIntent"
+      "intent": "GetNewLyricIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"

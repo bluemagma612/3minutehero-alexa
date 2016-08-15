@@ -1,7 +1,8 @@
 'use strict';
 var Alexa = require('alexa-sdk');
+var appId = require('config');
 
-var APP_ID = "amzn1.ask.skill.e817682b-7806-473b-861b-f3567fd955b3"; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = appId; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 var SKILL_NAME = '3 Minute Hero lyric of the day';
 
 /**
